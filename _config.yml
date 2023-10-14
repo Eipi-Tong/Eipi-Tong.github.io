@@ -13,6 +13,7 @@ url: 'https://eipi-tong.github.io' # the base hostname & protocol for your site 
 # google_analytics: 'UA-XXXXXX-X'
 # twitter_username: 'twitter_username'
 github_username: 'Eipi-Tong'
+resume_url: 'Tongtong Zhu'
 
 # Build settings
 markdown: kramdown
